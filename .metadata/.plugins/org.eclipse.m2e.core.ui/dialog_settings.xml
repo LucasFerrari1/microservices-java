@@ -2,6 +2,12 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+			<item value="C:\Users\User\eclipse-workspace\microservices-java\saudacao-service"/>
+			<item value="C:\Users\User\eclipse-workspace\microservices-java\produto-service"/>
+			<item value="C:\Users\User\eclipse-workspace\microservices-java\eureka-service"/>
+			<item value="C:\Users\User\eclipse-workspace\microservices-java\config-service"/>
+			<item value="C:\Users\User\eclipse-workspace\microservices-java\cambio-service"/>
+			<item value="C:\Users\User\eclipse-workspace\microservices-java\api-gateway-service"/>
 			<item value="C:\Users\User\Desktop\microservices\microservices-luciano\microservices"/>
 			<item value="C:\Users\User\Desktop\microservices\microservices-luciano"/>
 			<item value="C:\Users\User\Downloads\microservices"/>
